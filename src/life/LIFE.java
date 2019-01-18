@@ -19,7 +19,7 @@ public class LIFE {
     public static void main(String[] args) 
     {
         JFrame f = new JFrame();
-        f.setSize(900, 900);
+        f.setSize(1000, 900);
         f.add(new GUI());
         f.setVisible(true);
     }
